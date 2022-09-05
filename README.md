@@ -1,5 +1,5 @@
 # Utar-Data-Struct-Linked-List-Assignment
-Assignment of Data Sturctures and Algorithmetic Problem Solving for linked list. 
+Assignment of Data Sturctures and Algorithmetic Problem Solving for linked list to store and manage Student infomation with Exams. Included are Student, Exam, and Subject classes. Compiled with Visual Studio 2019.
 
 Be warned that code is junk and will not be maintained. Code runs but by all means modify it. Input validation be damned.
 
