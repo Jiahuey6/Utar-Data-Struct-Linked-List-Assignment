@@ -1,5 +1,7 @@
 # Utar-Data-Struct-Linked-List-Assignment
-My submission of the Assignment, be warned that code is junk and will not be maintained. Code runs but by all means modify it. Input validation be damned.
+Assignment of Data Sturctures and Algorithmetic Problem Solving for linked list. 
+
+Be warned that code is junk and will not be maintained. Code runs but by all means modify it. Input validation be damned.
 
 ## Additional Info
 **Subfunctions.h** and **RevisedGrading.h** are extra header files. The former deals with string copy of text files and the latter is self explanatory.
