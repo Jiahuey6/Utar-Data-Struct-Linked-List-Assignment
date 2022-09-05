@@ -1,0 +1,38 @@
+Student Id = 1200233
+Name = Matt Damon
+Course = CS
+Phone Number = 790-3233
+
+Student Id = 1201237
+Name = Ben Affleck
+Course = IA
+Phone Number = 432-4579
+
+Student Id = 1300899
+Name = Salma Hayek
+Course = IB
+Phone Number = 790-0000
+
+Student Id = 1200111
+Name = Daniel
+Course = CS
+Phone Number = 790-2222
+
+Student Id = 1300899
+Name = John
+Course = IA
+Phone Number = 789-0330
+
+Student Id = 1300233
+Name = Megan 
+Course = IB
+Phone Number = 787-0022
+
+Student Id = 1300212
+Name = Enimem
+Course = CS
+Phone Number = 785-1212
+
+
+
+
